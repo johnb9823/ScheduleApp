@@ -1,7 +1,7 @@
 # ScheduleApp
 
 ## erd
-![웹 이미지]
+![웹 이미지] (https://github.com/johnb9823/ScheduleApp/blob/main/scheduleappERD.png)
 
 ## schedule api
 |          | Method | URL             | 설명                    | Request                   | Response                       | 상태코드      |
